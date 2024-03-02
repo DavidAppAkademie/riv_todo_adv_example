@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956446621585",
+    "project_id": "riv-todo-adv-example",
+    "storage_bucket": "riv-todo-adv-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956446621585:android:336c35e3f971f73b90a430",
+        "android_client_info": {
+          "package_name": "com.example.riv_todo_adv_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojopLjrR2b01YGbxKsVhnpfWpSb_r5Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
