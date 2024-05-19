@@ -1,4 +1,4 @@
-import 'package:riv_todo_adv_example/todo/domain/todo.dart';
+import 'package:riv_todo_adv_example/features/todo/domain/todo.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 part 'database_todo_repository.g.dart';
 

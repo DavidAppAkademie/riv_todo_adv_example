@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:riv_todo_adv_example/config/values.dart';
-import 'package:riv_todo_adv_example/todo/data/database_todo_repository.dart';
-import 'package:riv_todo_adv_example/todo/domain/todo.dart';
+import 'package:riv_todo_adv_example/features/todo/data/database_todo_repository.dart';
+import 'package:riv_todo_adv_example/features/todo/domain/todo.dart';
 
 class FirestoreTodoRepository implements DatabaseTodoRepository {
   final FirebaseFirestore _firestore;

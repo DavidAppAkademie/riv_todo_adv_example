@@ -1,5 +1,5 @@
-import 'package:riv_todo_adv_example/todo/data/database_todo_repository.dart';
-import 'package:riv_todo_adv_example/todo/domain/todo.dart';
+import 'package:riv_todo_adv_example/features/todo/data/database_todo_repository.dart';
+import 'package:riv_todo_adv_example/features/todo/domain/todo.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 part 'add_todo_controller.g.dart';
 

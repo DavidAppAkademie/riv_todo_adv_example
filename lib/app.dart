@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:riv_todo_adv_example/todo/presentation/todo_screen.dart';
+import 'package:riv_todo_adv_example/features/todo/presentation/todo_screen.dart';
 
 class App extends StatelessWidget {
   const App({super.key});

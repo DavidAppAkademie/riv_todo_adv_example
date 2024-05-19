@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riv_todo_adv_example/todo/domain/todo.dart';
-import 'package:riv_todo_adv_example/todo/presentation/add_todo_controller.dart';
-import 'package:riv_todo_adv_example/todo/presentation/get_todos_controller.dart';
+import 'package:riv_todo_adv_example/features/todo/domain/todo.dart';
+import 'package:riv_todo_adv_example/features/todo/presentation/add_todo_controller.dart';
+import 'package:riv_todo_adv_example/features/todo/presentation/get_todos_controller.dart';
 import 'package:riv_todo_adv_example/utils/async_value_ui.dart';
 
 class TodoScreen extends ConsumerWidget {

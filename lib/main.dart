@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riv_todo_adv_example/app.dart';
 import 'package:riv_todo_adv_example/firebase_options.dart';
-import 'package:riv_todo_adv_example/todo/data/database_todo_repository.dart';
-import 'package:riv_todo_adv_example/todo/data/firestore_todo_repository.dart';
+import 'package:riv_todo_adv_example/features/todo/data/database_todo_repository.dart';
+import 'package:riv_todo_adv_example/features/todo/data/firestore_todo_repository.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
