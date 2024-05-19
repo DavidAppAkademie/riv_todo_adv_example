@@ -38,7 +38,6 @@ class TodoScreen extends ConsumerWidget {
                     child: ref.watch(getTodosControllerProvider).when(
                       data: (todoList) {
                         return ListView.builder(
-                          shrinkWrap: true,
                           itemCount: todoList.length,
                           itemBuilder: (context, index) {
                             return ListTile(
